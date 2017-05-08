@@ -1,0 +1,17 @@
+.app {
+  text-align: center;
+}
+.clock {
+  display: inline-flex;
+  padding: 2%;
+}
+.clock div {
+  margin: 5px;
+  font-size: 16px;
+}
+.btn {
+  margin: 5px;
+}
+.form-control {
+  width: 50%;
+}
